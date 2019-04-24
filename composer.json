@@ -8,6 +8,12 @@
             "email": "brunovaulawerneck@gmail.com"
         }
     ],
+	  "repositories": [
+    {
+		"type": "vcs",
+		"url": "https://github.com/prodrom/qr-code"
+	}
+  ],
     "minimum-stability": "dev",
     "require": {
         "prodrom/qr-code": "dev-master"
